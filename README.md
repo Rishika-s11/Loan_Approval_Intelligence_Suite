@@ -124,20 +124,20 @@ This internship provided valuable exposure to real-world problem solving and str
 
 ## **Learnings from LST and SST**
 
-Life Skills Training (LST) and Soft Skills Training (SST) were mandatory components for internship completion.
+Life Skills Training (LST) and Soft Skills Training (SST) were mandatory components for internship completion.<br>
 LST was conducted for three weeks after project completion, and SST sessions were held fortnightly throughout the internship.
 
 Key learnings:
 
--> Professional communication and active listening
--> Work ethics, responsibility, and professional conduct
--> Emotional intelligence and interpersonal skills
--> Digital presence and professional etiquette
--> Presentation skills, leadership, negotiation, and workplace dynamics
--> Career growth planning and goal setting
--> Stress management, focus, and well-being through yoga and meditation
--> Prompt engineering fundamentals
--> Using AI for productivity and creative problem solving
+-> Professional communication and active listening<br>
+-> Work ethics, responsibility, and professional conduct<br>
+-> Emotional intelligence and interpersonal skills<br>
+-> Digital presence and professional etiquette<br>
+-> Presentation skills, leadership, negotiation, and workplace dynamics<br>
+-> Career growth planning and goal setting<br>
+-> Stress management, focus, and well-being through yoga and meditation<br>
+-> Prompt engineering fundamentals<br>
+-> Using AI for productivity and creative problem solving<br>
 
 These sessions supported overall professional readiness alongside technical training.
 
