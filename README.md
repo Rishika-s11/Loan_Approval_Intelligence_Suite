@@ -63,11 +63,11 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my internship with SURE ProEd, I worked in the Data Analytics and Data Science domain.
+I gained practical knowledge of Advanced Excel, SQL, Python, Power BI, and Machine Learning. The internship involved working on 10 real-world projects and a capstone project, which helped me understand how data is collected, processed, analyzed, and used for decision-making in practical scenarios.
 
+Along with technical training, I participated in soft skills and life skills training, which helped improve my communication, professional behavior, and overall workplace readiness.
+This internship provided valuable exposure to real-world problem solving and strengthened both my technical and non-technical skills.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
