@@ -74,11 +74,11 @@ This internship provided valuable exposure to real-world problem solving and str
 
 <p><strong><a href="#project1">Project 1:</a></strong> Loan Approval Intelligence Suite </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> Sentiment Analysis </p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project3">Project 3:</a></strong> Scientific Calculator </p>
 
-<p><em></em></p>
+
 
 </div>
 
@@ -94,21 +94,19 @@ This internship provided valuable exposure to real-world problem solving and str
 <!-- Project 2 -->
 <h3 id="project2">Project 2: <!-- Add Project Title --></h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+  This project implements Sentiment Analysis using Python. It compares results from two popular approaches: VADER (Valence Aware Dictionary and Sentiment Reasoner) and Roberta (a transformer-based model from Hugging Face). The notebook demonstrates how to preprocess text, apply both models, and combine their outputs to classify sentiments as positive, negative, or neutral.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Project Code</strong></a>
 </p>
 
 <!-- Project 3 -->
 <h3 id="project3">Project 3: <!-- Add Project Title --></h3>
 <p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+  This project is a command-line scientific calculator developed in Python, designed to perform both basic and advanced mathematical operations without using GUI or external libraries. It includes arithmetic operations, power and root calculations, trigonometric functions, logarithmic and exponential functions, angle conversions, and number system conversions. All functionalities are modularized, with proper input handling and error checking to ensure robustness and accuracy.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Project Code</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
