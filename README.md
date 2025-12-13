@@ -85,8 +85,7 @@ This internship provided valuable exposure to real-world problem solving and str
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Loan Approval Intelligence Suite</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  An end-to-end data analytics project integrating Excel, SQL, Python, and Power BI to analyze loan applications, build a predictive model, generate risk scores, and create an interactive dashboard for decision-making.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
