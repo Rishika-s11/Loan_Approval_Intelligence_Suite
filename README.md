@@ -174,8 +174,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 
 <div align="center">
-<img src="https://github.com/Rishika-s11/Loan_Approval_Intelligence_Suite/issues/1#issue-3725847000
-" alt="Community Service Photo 1" width="30%">
+<img src="https://private-user-images.githubusercontent.com/173490907/526183881-860702ea-e192-453c-8369-4b89fc5625c5.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU2MjYzOTgsIm5iZiI6MTc2NTYyNjA5OCwicGF0aCI6Ii8xNzM0OTA5MDcvNTI2MTgzODgxLTg2MDcwMmVhLWUxOTItNDUzYy04MzY5LTRiODlmYzU2MjVjNS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIxMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMTNUMTE0MTM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZWQwNmE2MmRmMjA5ZmVkZGEzNGIwNzhhNzFiZTc0YTBlZTgwMzkyNTE2ZTA4MzE4NDJmZDAxZTkxMzg2MjNkMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Oh70Iu2kDtugbYA61RCcWoLsng83YUoJh53YRrN2h5Y" alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
