@@ -146,26 +146,26 @@ These sessions supported overall professional readiness alongside technical trai
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities. Along with developing technical and non-technical skills, this internship also emphasized the importance of social responsibility and community service. These activities helped me understand a sense of responsibility beyond academic and technical work.<!-- add descreption in your own words -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+- **Blood Donation** – Donated blood during a blood donation camp organized in memory of the founder, held at the college auditorium.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Tree Plantation Drive** – Participated by planting trees in my area and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted two elderly and handicapped individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Donated blood as part of a community blood donation initiative.<br>
+- Actively participated in promoting a greener and cleaner environment.<br>
+- Assisted a paralyzed individual and a senior citizen with daily tasks, strengthening community bonds.<br>
+- Developed stronger communication, coordination, empathy, and social responsibility through community engagement.<br>
 
 ### **Photos**
 
