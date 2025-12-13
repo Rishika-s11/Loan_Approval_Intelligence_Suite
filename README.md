@@ -101,7 +101,7 @@ This internship provided valuable exposure to real-world problem solving and str
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3:Scientific Calculator</h3>
+<h3 id="project3">Project 3: Scientific Calculator</h3>
 <p>
   This project is a command-line scientific calculator developed in Python, designed to perform both basic and advanced mathematical operations without using GUI or external libraries. It includes arithmetic operations, power and root calculations, trigonometric functions, logarithmic and exponential functions, angle conversions, and number system conversions. All functionalities are modularized, with proper input handling and error checking to ensure robustness and accuracy.
 </p>
