@@ -88,7 +88,7 @@ This internship provided valuable exposure to real-world problem solving and str
   An end-to-end data analytics project integrating Excel, SQL, Python, and Power BI to analyze loan applications, build a predictive model, generate risk scores, and create an interactive dashboard for decision-making.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Rishika-s11/Loan_Approval_Intelligence_Suite/blob/a3d82644fdf47acc65a1581d8df140a76643c13c/Project_Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
