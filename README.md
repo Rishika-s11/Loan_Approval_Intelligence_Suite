@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mr. Purnangshu Nath Roy</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> purnangshu13@gmail.com</p>
+<p><strong>Trainer Designation:</strong> AI Consultant at CSR BOX</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
