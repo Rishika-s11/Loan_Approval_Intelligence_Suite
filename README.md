@@ -174,7 +174,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 
 <div align="center">
-<img src="![blood donation](https://github.com/user-attachments/assets/20a7f765-1661-4629-877e-46f4ad295fab)
+<img src="https://github.com/Rishika-s11/Loan_Approval_Intelligence_Suite/issues/1#issue-3725847000
 " alt="Community Service Photo 1" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
