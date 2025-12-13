@@ -92,7 +92,7 @@ This internship provided valuable exposure to real-world problem solving and str
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Sentiment Analysis</h3>
 <p>
   This project implements Sentiment Analysis using Python. It compares results from two popular approaches: VADER (Valence Aware Dictionary and Sentiment Reasoner) and Roberta (a transformer-based model from Hugging Face). The notebook demonstrates how to preprocess text, apply both models, and combine their outputs to classify sentiments as positive, negative, or neutral.
 </p>
@@ -101,7 +101,7 @@ This internship provided valuable exposure to real-world problem solving and str
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<h3 id="project3">Project 3:Scientific Calculator</h3>
 <p>
   This project is a command-line scientific calculator developed in Python, designed to perform both basic and advanced mathematical operations without using GUI or external libraries. It includes arithmetic operations, power and root calculations, trigonometric functions, logarithmic and exponential functions, angle conversions, and number system conversions. All functionalities are modularized, with proper input handling and error checking to ensure robustness and accuracy.
 </p>
